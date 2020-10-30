@@ -1,0 +1,57 @@
+.head {
+    background-color: #555;
+    background-image: url(Img/motor3.jpg);
+}
+.head .judul{
+    text : sabrina;
+}
+.body {
+    font: 16px/26px arial,sans-serif;
+    background-color: #333;
+    color: #666;
+    background-image: url('Img/motor2.jpg');
+}
+.header{
+    padding: 10px;
+}
+.header.judul{
+    font-size: 48px;
+    font-weight: bold;
+    background-color: #777;
+    color: red;
+    padding: 1px;
+}
+.header ul li{
+    display: inline-block;
+    margin-top: 5px;
+    margin-right: 2px;
+}
+.header a {
+    webkit-text-decorations-in-effect: blue;
+    color: salmon;
+    padding: 5px;
+}
+.header a:hover {
+    background-color: blue;
+    color: red;
+}
+.jumbotron {
+    backgrouns-color: red;
+}
+.hero {
+    height: 250px;
+    background-image:url('Img/web1.jpg') ;
+    background-size: cover;
+    padding: 20px;
+}
+.mr-3 {
+    height: 64px;
+    width: 64px;
+}
+.h5 {
+    color: red;
+}
+.carouselExampleCaptions{
+    border: 10px;
+    border-color: red;
+}
